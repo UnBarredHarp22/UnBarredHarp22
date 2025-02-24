@@ -69,7 +69,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/UnBarredHarp22/UnBarredHarp22/output/snake.svg" alt="Snake animation" />
 
 ###
 
